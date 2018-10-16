@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(100, 200, 200);
+}
+h1{
+    color: rgb(20, 80, 80);
+    text-align: center;
+    font-size: 300%;
+}
+h3{
+    color: red;
+    text-align: center;
+    font-size: 150%;
+}
+div{
+    text-align: center;
+}
+#button1 #button2{
+    font-size: 100%;
+    border-radius: 20px;
+}
+#textarea{
+    margin-top: 20px;
+}
